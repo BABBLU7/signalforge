@@ -246,4 +246,4 @@ Built for the **AI Agents That Learn Using Hindsight** hackathon.
 
 ### Repository
 
-https://github.com/arunboda29/signalforge
+github.com/BABBLU7/signalforge
